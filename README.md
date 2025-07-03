@@ -5,7 +5,7 @@ This project is a Content-Based Movie Recommender System that suggests movies ba
 
 The recommendation engine uses natural language processing (NLP) techniques like vectorization and cosine similarity to measure how closely related two movies are. A  Streamlit frontend allows users to select a movie and instantly receive a list of similar titles,  with posters fetched from the TMDb API.
 
-The application is deployed on Streamlit Cloud, making it easily accessible from any browser with no installation required.
+Model was built using Scikit-learn and NLTK. The application is deployed on Streamlit Cloud, making it easily accessible from any browser with no installation required.
 
 ## Features
 ### 📄 Metadata Fusion
